@@ -1,0 +1,7 @@
+DATA SET -
+The UCI HAR dataset comprises:
+
+Featurized Data: Pre-extracted features representing different human activities.
+Raw Inertial Sensor Data: Accelerometer and gyroscope readings directly from the sensors.
+
+LINK --------> http://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones
